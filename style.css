@@ -5,8 +5,7 @@ h1{
     
     font-family: "Libre Baskerville";
     text-transform:uppercase;
-    width: 50%;
-    margin-left: 25%;
+    font-size: 3rem;
 }
 p{
     color: white;
@@ -17,14 +16,14 @@ p{
 }
 #picture{
     border: solid white 5px;
+    width: 100%; 
 }
 #everything{
     width: 50%;
     margin-left: 25%;
+    margin-top: 100px;
 }
-#pictures{
-    
-}
+
 .libre-baskerville-bold {
     font-family: "Libre Baskerville", serif;
     font-weight: 700;
