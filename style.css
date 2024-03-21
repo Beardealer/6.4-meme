@@ -5,17 +5,21 @@ h1{
     transform: translateY(-310px);
     font-family: "Libre Baskerville";
     text-transform:uppercase;
+    width: 50%;
+    margin-left: 25%;
 }
 p{
     color: white;
     text-align: center;
     transform: translateY(-310px);
+    width: 50%;
+    margin-left: 25%;
 }
 #picture1{
     height: 300px;
     width: 400px;
     border: solid white 5px;
-    /*margin-left: 205px;*/
+   
 }
 #picture2{
     height: 300px;
@@ -25,11 +29,11 @@ p{
     transform: translateY(-310px);
 }
 #everything{
-    width: 50%;
-    margin-left: 25%;
+    
 }
 #pictures{
-    margin-left: 5%;
+    width: 50%;
+    margin-left: 25%;
 }
 .libre-baskerville-bold {
     font-family: "Libre Baskerville", serif;
