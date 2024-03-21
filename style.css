@@ -2,7 +2,7 @@ body{background-color: black;}
 h1{
     color: white;
     text-align: center;
-    transform: translateY(-310px);
+    
     font-family: "Libre Baskerville";
     text-transform:uppercase;
     width: 50%;
@@ -11,29 +11,19 @@ h1{
 p{
     color: white;
     text-align: center;
-    transform: translateY(-310px);
+    
     width: 50%;
     margin-left: 25%;
 }
-#picture1{
-    height: 300px;
-    width: 400px;
+#picture{
     border: solid white 5px;
-   
-}
-#picture2{
-    height: 300px;
-    width: 400px;
-    border: solid white 5px;
-    margin-left: 410px;
-    transform: translateY(-310px);
 }
 #everything{
-    
-}
-#pictures{
     width: 50%;
     margin-left: 25%;
+}
+#pictures{
+    
 }
 .libre-baskerville-bold {
     font-family: "Libre Baskerville", serif;
